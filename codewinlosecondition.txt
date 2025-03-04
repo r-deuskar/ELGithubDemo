@@ -1,0 +1,9 @@
+if player dies = lose
+if player does not complete mission in time = lose
+if player shot = lose points
+if player kills enemy = win
+if players complete mission = win
+if player completes all tasks = win
+if player finds all items = win
+if player falls into void = lose
+if player loses hunger = lose
