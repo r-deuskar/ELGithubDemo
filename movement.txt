@@ -1,0 +1,7 @@
+W - move forward
+A - move left
+S - move backwards
+D - move to the right
+Spacebar - jump
+CTRL - crouch
+X - swing
