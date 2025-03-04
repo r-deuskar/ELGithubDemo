@@ -1,0 +1,4 @@
+Basic Henchmen eith two variations for each faction
+160cm tall first variation full white suit with white helmet covering whole face
+second variation black skimask in combat gear
+each henchman can be using either a regular handgun or rifle which targets players current location
