@@ -1,0 +1,5 @@
+Coin colour is silver/Gold
+The size of the code will be 200 pixels
+Player engages with coin and adds it as a point
+Coins can upgrade weapons
+Coins can double if you collect x2
