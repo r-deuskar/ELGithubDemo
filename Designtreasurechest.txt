@@ -1,0 +1,5 @@
+when the player gets closer to the treasure chest the player is able to pick up the treasure 
+the treasure chest will be able to see the treasure from a mile away 
+the treasure chest will have all sort of emotes and weapons etc to help user in the game 
+the treasure will have a gold glow arounf it so its mor nticable to see 
+the treasure chest wil have multiple option of gifts but it will be choosen with a spin the wheel
