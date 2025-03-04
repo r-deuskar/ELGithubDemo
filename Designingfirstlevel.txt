@@ -1,0 +1,5 @@
+User starts walking in the first level.
+as to jump on the path's to pass the level.
+Needs to be careful because there is lava underneath the path's.
+The characters need to run to the end of the level to win the game.
+The characters need to be able to jump and collect coins
