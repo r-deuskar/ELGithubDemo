@@ -1,0 +1,2 @@
+if the enemy is within 15 feet the player will be able to see them
+if the enemy is within 15 feet the player will be able to shoot them
